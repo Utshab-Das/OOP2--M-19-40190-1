@@ -10,8 +10,12 @@ namespace Student
     {
         static void Main(string[] args)
         {
-            Student S1 = new Student();
-            S1.ShowInfo();
+            Student st1 = new Student();
+            st1.Name = "Utshab Das";
+            st1.Department = "CSE";
+            st1.Cgpa = 3.75f;
+            st1.ShowInfo();
+            
         }
         }
     }

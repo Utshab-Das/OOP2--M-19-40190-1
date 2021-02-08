@@ -12,11 +12,7 @@ namespace Student
         string id;
         string department;
         float cgpa;
-        public Student()
-        {
-            Console.WriteLine(" That is a Constructor with one parameter ");
-        }
-
+        
         public string Name
         {
             set { name = value; }
