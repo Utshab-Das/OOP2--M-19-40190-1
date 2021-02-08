@@ -1,0 +1,6 @@
+C:\Users\Utshab\Documents\CsharpSpring20-21\lab3OOp2_MSln\lab3OOp2_M\bin\Debug\lab3OOp2_M.exe.config
+C:\Users\Utshab\Documents\CsharpSpring20-21\lab3OOp2_MSln\lab3OOp2_M\bin\Debug\lab3OOp2_M.exe
+C:\Users\Utshab\Documents\CsharpSpring20-21\lab3OOp2_MSln\lab3OOp2_M\bin\Debug\lab3OOp2_M.pdb
+C:\Users\Utshab\Documents\CsharpSpring20-21\lab3OOp2_MSln\lab3OOp2_M\obj\Debug\lab3OOp2_M.csprojResolveAssemblyReference.cache
+C:\Users\Utshab\Documents\CsharpSpring20-21\lab3OOp2_MSln\lab3OOp2_M\obj\Debug\lab3OOp2_M.exe
+C:\Users\Utshab\Documents\CsharpSpring20-21\lab3OOp2_MSln\lab3OOp2_M\obj\Debug\lab3OOp2_M.pdb
